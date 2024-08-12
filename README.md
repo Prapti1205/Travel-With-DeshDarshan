@@ -1,5 +1,5 @@
-# Free-Travel-Agents-Responsive-Website-for-online-bookings
-<a href='https://github.com/TravelXML/Free-Travel-Agents-Responsive-Website-for-online-bookings'>Travel Agent Premium Responsive Template for Hotels, Flights, Packages</a>
+# Free-Travel-with-DeshDarshan-Responsive-Website-for-online-bookings
+<a href='https://github.com/TravelXML/Free-Travel-with-DeshDarshan-Responsive-Website-for-online-bookings'>Travel with DeshDrashan Premium Responsive Template for Hotels, Flights, Packages</a>
 
 Responsive Website: it will work on all sort of electronics devices
 Included JS & CSS
